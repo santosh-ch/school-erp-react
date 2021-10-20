@@ -1,5 +1,5 @@
 import './App.css';
-import { Home } from './components/home/home';
+// import { Home } from './components/home/home';
 import { StudentDetailForm } from './components/student-detail-form/student-detail-form';
 
 function App() {
